@@ -1,2 +1,2 @@
 # Django-SMS
-this is a small project to send sms/otp to client using django and twilio
+In this repo I have created a small Sms sending service with Twilio API. It's implementation is very simple and easy.
